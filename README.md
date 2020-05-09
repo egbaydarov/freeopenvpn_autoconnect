@@ -1,5 +1,5 @@
 # freeopenvpn_autoconnection 
-* [download](https://github.com/egbaydarov/freeopenvpn_autoconnect/releases/download/1.0/v1_win64.zip)
+* [download](https://github.com/egbaydarov/freeopenvpn_autoconnect/releases/download/WORKING/VPN.zip)
 
 # NOTE: administrator rights and openvpn istalled in PATH variables are required
 
@@ -14,7 +14,7 @@
 
 * [Protobuf compilation guide](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html)
 
-* `for /f %i in ('dir /b object_detection\protos\*.proto') do protoc object_detection\protos\%i --python_out=.`
+* compile batch comand `for /f %i in ('dir /b object_detection\protos\*.proto') do protoc object_detection\protos\%i --python_out=.`
 
 * `pip install opencv-python`
  
